@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-api",
+  "version": "1.0.0",
+  "description": "A sample app to demonstrate express",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}

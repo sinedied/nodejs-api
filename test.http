@@ -1,0 +1,5 @@
+GET http://localhost:5000/api/accounts/yohan
+
+###
+
+DELETE http://localhost:5000/api/accounts/yohan
